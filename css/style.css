@@ -10,6 +10,11 @@ header{
     background-image: linear-gradient(0deg, #4b3015, #815f3d)  ;
     border-radius: 50px;
     text-align: center;
+<<<<<<< HEAD
+=======
+    position: relative;
+
+>>>>>>> b83c4287484f367936b27f990f8f1fc0e2db539e
 }
 
 #foto-logo{
