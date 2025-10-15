@@ -4,11 +4,12 @@ body{
     background-image: linear-gradient(1000deg, #386847, #38685a, #385968);
 }
 header{ 
+
     width: 100%;
     height: 300px;
     background-image: linear-gradient(0deg, #4b3015, #815f3d)  ;
-    border-bottom-left-radius: 50px;
-    border-bottom-right-radius: 50px;
+    border-radius: 50px;
+   
 }
 
 #foto-logo{
